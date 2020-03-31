@@ -1,0 +1,4 @@
+1. Get video wired up using peerjs
+2. Fix timeout bug
+3. How do we broadcast state changes per-quiz? (e.g. on registration)
+4. Make users join teams with nicknames

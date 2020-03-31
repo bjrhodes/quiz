@@ -1,0 +1,1 @@
+export default () => window.location.pathname.substr(1);
